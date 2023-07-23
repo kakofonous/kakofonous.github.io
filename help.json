@@ -1,10 +1,10 @@
-contact	""
-templates	
-0	
-name	"Tiny Loona"
-sources	
-0	"https://i.imgur.com/7dmJTU3.png"
-x	-914
-y	-238
+contact:	""
+templates:
+0:	
+  name:	"Tiny Loona"
+  sources:	
+    0:	"https://i.imgur.com/7dmJTU3.png"
+  x:	-914
+  y:	-238
 whitelist	[]
 blacklist	[]
